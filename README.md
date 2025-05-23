@@ -1,4 +1,6 @@
 # Monitoramento-com-Prometheus-Grafana-e-Alertmanager
+![image](https://github.com/user-attachments/assets/717dcf82-7dc3-4140-8395-15f6007e928e)
+
 
 Este é um projeto apresentado na disciplina de computação orientada a serviços. O objetivo do projeto é ensinar como utilizar as ferramentas de monitoramento e alerta Prometheus, Grafana e Alertmanager.
 
