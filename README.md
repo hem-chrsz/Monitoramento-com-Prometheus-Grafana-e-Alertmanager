@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/07106afa-8348-44e9-8c83-42258708c5b7)
+![image](https://github.com/user-attachments/assets/72c4a334-5990-461f-bd45-c8a921ded8f4)
 
 # Monitoramento-com-Prometheus-Grafana-e-Alertmanager
 
